@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-29">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Información General sobre Diabetes" label="Información General sobre Diabetes" />
+      <node id="Presentación del Programa " label="Presentación del Programa " />
+      <node id="Nutrición y Alimentación" label="Nutrición y Alimentación" />
+      <node id="Ejemplos de almuerzos y cenas " label="Ejemplos de almuerzos y cenas " />
+      <node id="Ejemplos de desayunos y meriendas " label="Ejemplos de desayunos y meriendas " />
+      <node id="Hidratos de Carbono e intercambios " label="Hidratos de Carbono e intercambios " />
+      <node id="Etiquetas nutricionales " label="Etiquetas nutricionales " />
+      <node id="Índice Glucémico " label="Índice Glucémico " />
+      <node id="Alimentos de Alto-medio-bajo IG " label="Alimentos de Alto-medio-bajo IG " />
+      <node id="Comer fuera de casa " label="Comer fuera de casa " />
+      <node id="Ejercicio y Estilo de Vida" label="Ejercicio y Estilo de Vida" />
+      <node id="Ejercicio y complicaciones " label="Ejercicio y complicaciones " />
+      <node id="Ejercicios para mejorar " label="Ejercicios para mejorar " />
+      <node id="Sueño y Descanso Saludable " label="Sueño y Descanso Saludable " />
+      <node id="Vivir con Diabetes " label="Vivir con Diabetes " />
+      <node id="Manejo y Control de la Diabetes" label="Manejo y Control de la Diabetes" />
+      <node id="Diabetes y alcohol " label="Diabetes y alcohol " />
+      <node id="Complicaciones y Condiciones Asociadas" label="Complicaciones y Condiciones Asociadas" />
+      <node id="Dermopatía Diabética. Problemas en la piel " label="Dermopatía Diabética. Problemas en la piel " />
+      <node id="Reacciones Alérgicas " label="Reacciones Alérgicas " />
+      <node id="Prevención y Chequeos" label="Prevención y Chequeos" />
+      <node id="Chequeos Clinicos " label="Chequeos Clinicos " />
+      <node id="Los 7 pasos a recordar al inyectarse insulina " label="Los 7 pasos a recordar al inyectarse insulina " />
+      <node id="Enfermedad Renal Diabética " label="Enfermedad Renal Diabética " />
+      <node id="Medicamentos para el tratamiento de la diabetes " label="Medicamentos para el tratamiento de la diabetes " />
+      <node id="Cetoacidosis diabética " label="Cetoacidosis diabética " />
+      <node id="Hipoglucemia en la persona con diabetes " label="Hipoglucemia en la persona con diabetes " />
+      <node id="Hipoglucemia: síntomas y causas " label="Hipoglucemia: síntomas y causas " />
+      <node id="Diabetes tipo 2 en adultos " label="Diabetes tipo 2 en adultos " />
+      <node id="Ejercicio y diabetes " label="Ejercicio y diabetes " />
+      <node id="Conteo básico de carbohidratos " label="Conteo básico de carbohidratos " />
+      <node id="Método del plato " label="Método del plato " />
+      <node id="Plan de alimentación para la diabetes " label="Plan de alimentación para la diabetes " />
+      <node id="Enfermedades diabéticas del ojo " label="Enfermedades diabéticas del ojo " />
+      <node id="Neuropatía diabética " label="Neuropatía diabética " />
+      <node id="Diabetes durante días de enfermedad " label="Diabetes durante días de enfermedad " />
+      <node id="Úlceras de pie diabético " label="Úlceras de pie diabético " />
+      <node id="Hemoglobina A1c " label="Hemoglobina A1c " />
+      <node id="Qué es la Diabetes " label="Qué es la Diabetes " />
+      <node id="La diabetes y su boca " label="La diabetes y su boca " />
+      <node id="Cómo controlar el azúcar en sangre " label="Cómo controlar el azúcar en sangre " />
+      <node id="Los factores de riesgo cardiovascular " label="Los factores de riesgo cardiovascular " />
+      <node id="Tener un peso saludable " label="Tener un peso saludable " />
+      <node id="El problema con el colesterol " label="El problema con el colesterol " />
+      <node id="El asado y la parrilla " label="El asado y la parrilla " />
+    </nodes>
+    <edges>
+      <edge source="Información General sobre Diabetes" target="Presentación del Programa " id="0" weight="1" />
+      <edge source="Información General sobre Diabetes" target="Vivir con Diabetes " id="1" weight="1" />
+      <edge source="Información General sobre Diabetes" target="Diabetes tipo 2 en adultos " id="2" weight="1" />
+      <edge source="Información General sobre Diabetes" target="Qué es la Diabetes " id="3" weight="1" />
+      <edge source="Nutrición y Alimentación" target="Ejemplos de almuerzos y cenas " id="4" weight="1" />
+      <edge source="Nutrición y Alimentación" target="Ejemplos de desayunos y meriendas " id="5" weight="1" />
+      <edge source="Nutrición y Alimentación" target="Hidratos de Carbono e intercambios " id="6" weight="1" />
+      <edge source="Nutrición y Alimentación" target="Etiquetas nutricionales " id="7" weight="1" />
+      <edge source="Nutrición y Alimentación" target="Índice Glucémico " id="8" weight="1" />
+      <edge source="Nutrición y Alimentación" target="Alimentos de Alto-medio-bajo IG " id="9" weight="1" />
+      <edge source="Nutrición y Alimentación" target="Comer fuera de casa " id="10" weight="1" />
+      <edge source="Nutrición y Alimentación" target="Conteo básico de carbohidratos " id="11" weight="1" />
+      <edge source="Nutrición y Alimentación" target="Método del plato " id="12" weight="1" />
+      <edge source="Nutrición y Alimentación" target="Plan de alimentación para la diabetes " id="13" weight="1" />
+      <edge source="Nutrición y Alimentación" target="El asado y la parrilla " id="14" weight="1" />
+      <edge source="Ejercicio y Estilo de Vida" target="Ejercicio y complicaciones " id="15" weight="1" />
+      <edge source="Ejercicio y Estilo de Vida" target="Ejercicios para mejorar " id="16" weight="1" />
+      <edge source="Ejercicio y Estilo de Vida" target="Sueño y Descanso Saludable " id="17" weight="1" />
+      <edge source="Ejercicio y Estilo de Vida" target="Ejercicio y diabetes " id="18" weight="1" />
+      <edge source="Ejercicio y Estilo de Vida" target="Tener un peso saludable " id="19" weight="1" />
+      <edge source="Manejo y Control de la Diabetes" target="Diabetes y alcohol " id="20" weight="1" />
+      <edge source="Manejo y Control de la Diabetes" target="Los 7 pasos a recordar al inyectarse insulina " id="21" weight="1" />
+      <edge source="Manejo y Control de la Diabetes" target="Medicamentos para el tratamiento de la diabetes " id="22" weight="1" />
+      <edge source="Manejo y Control de la Diabetes" target="Hemoglobina A1c " id="23" weight="1" />
+      <edge source="Manejo y Control de la Diabetes" target="Cómo controlar el azúcar en sangre " id="24" weight="1" />
+      <edge source="Complicaciones y Condiciones Asociadas" target="Dermopatía Diabética. Problemas en la piel " id="25" weight="1" />
+      <edge source="Complicaciones y Condiciones Asociadas" target="Reacciones Alérgicas " id="26" weight="1" />
+      <edge source="Complicaciones y Condiciones Asociadas" target="Enfermedad Renal Diabética " id="27" weight="1" />
+      <edge source="Complicaciones y Condiciones Asociadas" target="Cetoacidosis diabética " id="28" weight="1" />
+      <edge source="Complicaciones y Condiciones Asociadas" target="Hipoglucemia en la persona con diabetes " id="29" weight="1" />
+      <edge source="Complicaciones y Condiciones Asociadas" target="Hipoglucemia: síntomas y causas " id="30" weight="1" />
+      <edge source="Complicaciones y Condiciones Asociadas" target="Enfermedades diabéticas del ojo " id="31" weight="1" />
+      <edge source="Complicaciones y Condiciones Asociadas" target="Neuropatía diabética " id="32" weight="1" />
+      <edge source="Complicaciones y Condiciones Asociadas" target="Diabetes durante días de enfermedad " id="33" weight="1" />
+      <edge source="Complicaciones y Condiciones Asociadas" target="Úlceras de pie diabético " id="34" weight="1" />
+      <edge source="Prevención y Chequeos" target="Chequeos Clinicos " id="35" weight="1" />
+      <edge source="Prevención y Chequeos" target="La diabetes y su boca " id="36" weight="1" />
+      <edge source="Prevención y Chequeos" target="Los factores de riesgo cardiovascular " id="37" weight="1" />
+      <edge source="Prevención y Chequeos" target="El problema con el colesterol " id="38" weight="1" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,465 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2023-11-30">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="categoria" title="categoria" type="string"/>
+      <attribute id="url" title="url" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="200001" label="Presentación del Programa">
+        <attvalues>
+          <attvalue for="categoria" value="Información General sobre Diabetes"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/200001"/>
+        </attvalues>
+        <viz:size value="13.571428"/>
+        <viz:position x="-950.0263" y="105.98418"/>
+        <viz:color r="198" g="232" b="226"/>
+      </node>
+      <node id="202010" label="Ejemplos de almuerzos y cenas">
+        <attvalues>
+          <attvalue for="categoria" value="Nutrición y Alimentación"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/202010"/>
+        </attvalues>
+        <viz:size value="31.428572"/>
+        <viz:position x="82.026054" y="-595.3394"/>
+        <viz:color r="29" g="133" b="78"/>
+      </node>
+      <node id="202011" label="Ejemplos de desayunos y meriendas">
+        <attvalues>
+          <attvalue for="categoria" value="Nutrición y Alimentación"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/202011"/>
+        </attvalues>
+        <viz:size value="31.428572"/>
+        <viz:position x="255.50458" y="-229.8504"/>
+        <viz:color r="29" g="133" b="78"/>
+      </node>
+      <node id="202012" label="Hidratos de Carbono e intercambios">
+        <attvalues>
+          <attvalue for="categoria" value="Nutrición y Alimentación"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/202012"/>
+        </attvalues>
+        <viz:size value="31.428572"/>
+        <viz:position x="598.3819" y="-181.81007"/>
+        <viz:color r="29" g="133" b="78"/>
+      </node>
+      <node id="202013" label="Etiquetas nutricionales">
+        <attvalues>
+          <attvalue for="categoria" value="Nutrición y Alimentación"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/202013"/>
+        </attvalues>
+        <viz:size value="31.428572"/>
+        <viz:position x="174.49762" y="92.82578"/>
+        <viz:color r="29" g="133" b="78"/>
+      </node>
+      <node id="202014" label="Índice Glucémico">
+        <attvalues>
+          <attvalue for="categoria" value="Nutrición y Alimentación"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/202014"/>
+        </attvalues>
+        <viz:size value="31.428572"/>
+        <viz:position x="-70.07152" y="-380.2433"/>
+        <viz:color r="29" g="133" b="78"/>
+      </node>
+      <node id="202015" label="Alimentos de Alto-medio-bajo IG">
+        <attvalues>
+          <attvalue for="categoria" value="Nutrición y Alimentación"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/202015"/>
+        </attvalues>
+        <viz:size value="31.428572"/>
+        <viz:position x="-79.45054" y="-158.01079"/>
+        <viz:color r="29" g="133" b="78"/>
+      </node>
+      <node id="202018" label="Comer fuera de casa">
+        <attvalues>
+          <attvalue for="categoria" value="Nutrición y Alimentación"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/202018"/>
+        </attvalues>
+        <viz:size value="31.428572"/>
+        <viz:position x="-80.222275" y="60.792755"/>
+        <viz:color r="29" g="133" b="78"/>
+      </node>
+      <node id="202022" label="Ejercicio y complicaciones">
+        <attvalues>
+          <attvalue for="categoria" value="Ejercicio y Estilo de Vida"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/202022"/>
+        </attvalues>
+        <viz:size value="17.142857"/>
+        <viz:position x="392.3364" y="478.6447"/>
+        <viz:color r="159" g="217" b="201"/>
+      </node>
+      <node id="202025" label="Ejercicios para mejorar">
+        <attvalues>
+          <attvalue for="categoria" value="Ejercicio y Estilo de Vida"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/202025"/>
+        </attvalues>
+        <viz:size value="17.142857"/>
+        <viz:position x="300.33185" y="690.1373"/>
+        <viz:color r="159" g="217" b="201"/>
+      </node>
+      <node id="202026" label="Sueño y Descanso Saludable">
+        <attvalues>
+          <attvalue for="categoria" value="Ejercicio y Estilo de Vida"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/202026"/>
+        </attvalues>
+        <viz:size value="17.142857"/>
+        <viz:position x="200.55125" y="333.10468"/>
+        <viz:color r="159" g="217" b="201"/>
+      </node>
+      <node id="202036" label="Vivir con Diabetes">
+        <attvalues>
+          <attvalue for="categoria" value="Información General sobre Diabetes"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/202036"/>
+        </attvalues>
+        <viz:size value="13.571428"/>
+        <viz:position x="-1006.0137" y="-21.807007"/>
+        <viz:color r="198" g="232" b="226"/>
+      </node>
+      <node id="202038" label="Diabetes y alcohol">
+        <attvalues>
+          <attvalue for="categoria" value="Manejo y Control de la Diabetes"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/202038"/>
+        </attvalues>
+        <viz:size value="17.142857"/>
+        <viz:position x="-316.98712" y="481.96252"/>
+        <viz:color r="159" g="217" b="201"/>
+      </node>
+      <node id="202042" label="Dermopatía Diabética. Problemas en la piel">
+        <attvalues>
+          <attvalue for="categoria" value="Complicaciones y Condiciones Asociadas"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/202042"/>
+        </attvalues>
+        <viz:size value="35.0"/>
+        <viz:position x="-348.9353" y="-469.86453"/>
+        <viz:color r="0" g="109" b="44"/>
+      </node>
+      <node id="202043" label="Reacciones Alérgicas">
+        <attvalues>
+          <attvalue for="categoria" value="Complicaciones y Condiciones Asociadas"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/202043"/>
+        </attvalues>
+        <viz:size value="35.0"/>
+        <viz:position x="179.04324" y="-320.75525"/>
+        <viz:color r="0" g="109" b="44"/>
+      </node>
+      <node id="202044" label="Chequeos Clinicos">
+        <attvalues>
+          <attvalue for="categoria" value="Prevención y Chequeos"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/202044"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="691.73035" y="500.3606"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="202046" label="Los 7 pasos a recordar al inyectarse insulina">
+        <attvalues>
+          <attvalue for="categoria" value="Manejo y Control de la Diabetes"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/202046"/>
+        </attvalues>
+        <viz:size value="17.142857"/>
+        <viz:position x="-62.185596" y="370.18387"/>
+        <viz:color r="159" g="217" b="201"/>
+      </node>
+      <node id="205191" label="Enfermedad Renal Diabética">
+        <attvalues>
+          <attvalue for="categoria" value="Complicaciones y Condiciones Asociadas"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/205191"/>
+        </attvalues>
+        <viz:size value="35.0"/>
+        <viz:position x="79.4298" y="-58.91931"/>
+        <viz:color r="0" g="109" b="44"/>
+      </node>
+      <node id="211221" label="Medicamentos para el tratamiento de la diabetes">
+        <attvalues>
+          <attvalue for="categoria" value="Manejo y Control de la Diabetes"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/211221"/>
+        </attvalues>
+        <viz:size value="17.142857"/>
+        <viz:position x="-603.41876" y="-84.70724"/>
+        <viz:color r="159" g="217" b="201"/>
+      </node>
+      <node id="228041" label="Cetoacidosis diabética">
+        <attvalues>
+          <attvalue for="categoria" value="Complicaciones y Condiciones Asociadas"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/228041"/>
+        </attvalues>
+        <viz:size value="35.0"/>
+        <viz:position x="357.1518" y="-18.264465"/>
+        <viz:color r="0" g="109" b="44"/>
+      </node>
+      <node id="228081" label="Hipoglucemia en la persona con diabetes">
+        <attvalues>
+          <attvalue for="categoria" value="Complicaciones y Condiciones Asociadas"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/228081"/>
+        </attvalues>
+        <viz:size value="35.0"/>
+        <viz:position x="-158.3938" y="-596.8147"/>
+        <viz:color r="0" g="109" b="44"/>
+      </node>
+      <node id="228091" label="Diabetes tipo 2 en adultos">
+        <attvalues>
+          <attvalue for="categoria" value="Información General sobre Diabetes"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/228091"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="694.8759" y="377.7401"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="244224" label="Ejercicio y diabetes">
+        <attvalues>
+          <attvalue for="categoria" value="Ejercicio y Estilo de Vida"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/244224"/>
+        </attvalues>
+        <viz:size value="20.714287"/>
+        <viz:position x="-493.13812" y="373.9393"/>
+        <viz:color r="121" g="201" b="176"/>
+      </node>
+      <node id="272241" label="Conteo básico de carbohidratos">
+        <attvalues>
+          <attvalue for="categoria" value="Nutrición y Alimentación"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/272241"/>
+        </attvalues>
+        <viz:size value="20.714287"/>
+        <viz:position x="-534.3491" y="-312.9642"/>
+        <viz:color r="121" g="201" b="176"/>
+      </node>
+      <node id="272351" label="Método del plato">
+        <attvalues>
+          <attvalue for="categoria" value="Nutrición y Alimentación"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/272351"/>
+        </attvalues>
+        <viz:size value="20.714287"/>
+        <viz:position x="-707.01013" y="468.10745"/>
+        <viz:color r="121" g="201" b="176"/>
+      </node>
+      <node id="272361" label="Plan de alimentación para la diabetes">
+        <attvalues>
+          <attvalue for="categoria" value="Nutrición y Alimentación"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/272361"/>
+        </attvalues>
+        <viz:size value="20.714287"/>
+        <viz:position x="-74.11282" y="607.3437"/>
+        <viz:color r="121" g="201" b="176"/>
+      </node>
+      <node id="272511" label="Enfermedades diabéticas del ojo">
+        <attvalues>
+          <attvalue for="categoria" value="Complicaciones y Condiciones Asociadas"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/272511"/>
+        </attvalues>
+        <viz:size value="35.0"/>
+        <viz:position x="301.65817" y="-533.3683"/>
+        <viz:color r="0" g="109" b="44"/>
+      </node>
+      <node id="272571" label="Neuropatía diabética">
+        <attvalues>
+          <attvalue for="categoria" value="Complicaciones y Condiciones Asociadas"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes/272571"/>
+        </attvalues>
+        <viz:size value="35.0"/>
+        <viz:position x="468.15396" y="147.19437"/>
+        <viz:color r="0" g="109" b="44"/>
+      </node>
+      <node id="274781" label="Diabetes durante días de enfermedad">
+        <attvalues>
+          <attvalue for="categoria" value="Complicaciones y Condiciones Asociadas"/>
+          <attvalue for="url" value="https://motivia.com.ar/Documents/Diabetes"/>
+        </attvalues>
+        <viz:size value="35.0"/>
+        <viz:position x="457.59198" y="-372.33453"/>
+        <viz:color r="0" g="109" b="44"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="200001" target="202036">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="1" source="202010" target="202011">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="2" source="202010" target="202012">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="3" source="202010" target="202013">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="4" source="202010" target="202014">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="5" source="202010" target="202015">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="6" source="202010" target="202018">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="7" source="202011" target="202012">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="8" source="202011" target="202013">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="9" source="202011" target="202014">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="10" source="202011" target="202015">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="11" source="202011" target="202018">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="12" source="202012" target="202013">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="13" source="202012" target="202014">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="14" source="202012" target="202015">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="15" source="202012" target="202018">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="16" source="202013" target="202014">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="17" source="202013" target="202015">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="18" source="202013" target="202018">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="19" source="202014" target="202015">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="20" source="202014" target="202018">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="21" source="202015" target="202018">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="22" source="202022" target="202025">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="23" source="202022" target="202026">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="24" source="202025" target="202026">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="25" source="202038" target="202046">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="26" source="202038" target="211221">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="27" source="202046" target="211221">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="28" source="202042" target="202043">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="29" source="202042" target="205191">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="30" source="202042" target="228041">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="31" source="202042" target="228081">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="32" source="202042" target="272511">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="33" source="202042" target="272571">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="34" source="202042" target="274781">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="35" source="202043" target="205191">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="36" source="202043" target="228041">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="37" source="202043" target="228081">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="38" source="202043" target="272511">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="39" source="202043" target="272571">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="40" source="202043" target="274781">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="41" source="205191" target="228041">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="42" source="205191" target="228081">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="43" source="205191" target="272511">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="44" source="205191" target="272571">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="45" source="205191" target="274781">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="46" source="228041" target="228081">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="47" source="228041" target="272511">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="48" source="228041" target="272571">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="49" source="228041" target="274781">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="50" source="228081" target="272511">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="51" source="228081" target="272571">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="52" source="228081" target="274781">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="53" source="272511" target="272571">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="54" source="272511" target="274781">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="55" source="272571" target="274781">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="56" source="244224" target="272241">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="57" source="244224" target="272351">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="58" source="244224" target="272361">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="59" source="272241" target="272351">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="60" source="272241" target="272361">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="61" source="272351" target="272361">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

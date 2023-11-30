@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2023-11-28">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="diabetes" label="diabetes">
+        <viz:size value="28.46154"/>
+        <viz:position x="197.82307" y="541.9484"/>
+        <viz:color r="155" g="215" b="198"/>
+      </node>
+      <node id="GESTIÓN DBT MOBILE" label="GESTIÓN DBT MOBILE">
+        <viz:size value="15.0"/>
+        <viz:position x="336.73392" y="51.13645"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="Impact of diabetes self-management, diabetes management self-efficacy and diabetes knowledge on glycemic control in people with Type 2 Diabetes (T2D)_ A multi- center study in Thailand " label="Impact of diabetes self-management, diabetes management self-efficacy and diabetes knowledge on glycemic control in people with Type 2 Diabetes (T2D)_ A multi- center study in Thailand ">
+        <viz:size value="15.0"/>
+        <viz:position x="592.4467" y="-5.858573"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="journal" label="journal">
+        <viz:size value="15.0"/>
+        <viz:position x="392.0343" y="-443.702"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="mobileDiabetes" label="mobileDiabetes">
+        <viz:size value="15.0"/>
+        <viz:position x="181.9756" y="-578.3573"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="Paquetes web" label="Paquetes web">
+        <viz:size value="15.0"/>
+        <viz:position x="94.18424" y="-100.81301"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="phone" label="phone">
+        <viz:size value="15.0"/>
+        <viz:position x="-372.9929" y="74.35402"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="pone" label="pone">
+        <viz:size value="15.0"/>
+        <viz:position x="-284.3985" y="522.2841"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="Self_Efficacy_Problem_Solving_and_Social" label="Self_Efficacy_Problem_Solving_and_Social">
+        <viz:size value="15.0"/>
+        <viz:position x="-46.809612" y="611.2526"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="comportamiento" label="comportamiento">
+        <viz:size value="40.0"/>
+        <viz:position x="-120.80525" y="-293.3908"/>
+        <viz:color r="0" g="109" b="44"/>
+      </node>
+      <node id="Adherence and Persistence" label="Adherence and Persistence">
+        <viz:size value="15.0"/>
+        <viz:position x="553.5736" y="-246.97214"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="Adherence Executive Summary" label="Adherence Executive Summary">
+        <viz:size value="15.0"/>
+        <viz:position x="-585.90094" y="-123.841896"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="EAG Arg" label="EAG Arg">
+        <viz:size value="15.0"/>
+        <viz:position x="-66.67063" y="-585.6143"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="EAG psicometria" label="EAG psicometria">
+        <viz:size value="15.0"/>
+        <viz:position x="-471.9722" y="360.43814"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="EAG uso" label="EAG uso">
+        <viz:size value="15.0"/>
+        <viz:position x="-483.82806" y="-372.14456"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="EAG" label="EAG">
+        <viz:size value="15.0"/>
+        <viz:position x="543.8082" y="226.76982"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="HRQOL9" label="HRQOL9">
+        <viz:size value="15.0"/>
+        <viz:position x="-145.52615" y="-18.612394"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="James Clear - Hábitos atómicos (2019, Planeta Publishing) - libgen" label="James Clear - Hábitos atómicos (2019, Planeta Publishing) - libgen">
+        <viz:size value="15.0"/>
+        <viz:position x="-595.1305" y="136.75908"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="LS7" label="LS7">
+        <viz:size value="15.0"/>
+        <viz:position x="108.19319" y="-356.8734"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="Medication Compliance and Persistence" label="Medication Compliance and Persistence">
+        <viz:size value="15.0"/>
+        <viz:position x="-336.66223" y="-189.02878"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="Mensajería de Refuerzos intangibles" label="Mensajería de Refuerzos intangibles">
+        <viz:size value="15.0"/>
+        <viz:position x="-284.95938" y="-511.18298"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="Self-efficacy_ Toward a Unifying Theory of Behavioral Change " label="Self-efficacy_ Toward a Unifying Theory of Behavioral Change ">
+        <viz:size value="15.0"/>
+        <viz:position x="421.14215" y="440.3423"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="significance of compliance and persistence" label="significance of compliance and persistence">
+        <viz:size value="15.0"/>
+        <viz:position x="-11.940404" y="376.54807"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="SLIQ" label="SLIQ">
+        <viz:size value="15.0"/>
+        <viz:position x="-224.95718" y="264.91956"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="nutricion" label="nutricion">
+        <viz:size value="16.923077"/>
+        <viz:position x="621.2415" y="513.2605"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="Basics-of-Nutrition-Exercise" label="Basics-of-Nutrition-Exercise">
+        <viz:size value="15.0"/>
+        <viz:position x="246.74493" y="274.61154"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="Food Nutrition healt and Fitness" label="Food Nutrition healt and Fitness">
+        <viz:size value="15.0"/>
+        <viz:position x="43.863052" y="138.14659"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="diabetes" target="GESTIÓN DBT MOBILE">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="1" source="diabetes" target="Impact of diabetes self-management, diabetes management self-efficacy and diabetes knowledge on glycemic control in people with Type 2 Diabetes (T2D)_ A multi- center study in Thailand ">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="2" source="diabetes" target="journal">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="3" source="diabetes" target="mobileDiabetes">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="4" source="diabetes" target="Paquetes web">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="5" source="diabetes" target="phone">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="6" source="diabetes" target="pone">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="7" source="diabetes" target="Self_Efficacy_Problem_Solving_and_Social">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="8" source="comportamiento" target="Adherence and Persistence">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="9" source="comportamiento" target="Adherence Executive Summary">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="10" source="comportamiento" target="EAG Arg">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="11" source="comportamiento" target="EAG psicometria">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="12" source="comportamiento" target="EAG uso">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="13" source="comportamiento" target="EAG">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="14" source="comportamiento" target="HRQOL9">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="15" source="comportamiento" target="James Clear - Hábitos atómicos (2019, Planeta Publishing) - libgen">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="16" source="comportamiento" target="LS7">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="17" source="comportamiento" target="Medication Compliance and Persistence">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="18" source="comportamiento" target="Mensajería de Refuerzos intangibles">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="19" source="comportamiento" target="Self-efficacy_ Toward a Unifying Theory of Behavioral Change ">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="20" source="comportamiento" target="significance of compliance and persistence">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="21" source="comportamiento" target="SLIQ">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="22" source="nutricion" target="Basics-of-Nutrition-Exercise">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+      <edge id="23" source="nutricion" target="Food Nutrition healt and Fitness">
+        <viz:color r="27" g="0" b="3"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
